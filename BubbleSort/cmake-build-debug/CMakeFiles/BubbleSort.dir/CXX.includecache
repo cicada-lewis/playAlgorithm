@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/AlgorithmByCpp/BubbleSort/BubbleSort.h
+algorithm
+-
+
+E:/AlgorithmByCpp/BubbleSort/SortCommon.h
+ctime
+-
+cstdlib
+-
+iostream
+-
+string
+-
+assert.h
+-
+
+E:/AlgorithmByCpp/BubbleSort/main.cpp
+iostream
+-
+BubbleSort.h
+E:/AlgorithmByCpp/BubbleSort/BubbleSort.h
+SortCommon.h
+E:/AlgorithmByCpp/BubbleSort/SortCommon.h
+

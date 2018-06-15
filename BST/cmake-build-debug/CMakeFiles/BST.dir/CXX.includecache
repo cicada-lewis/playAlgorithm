@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Algorithm/code/AlgorithmByCpp/BST/BST.h
+istream
+-
+queue
+-
+
+F:/Algorithm/code/AlgorithmByCpp/BST/FileOps.h
+string
+-
+iostream
+-
+fstream
+-
+vector
+-
+
+F:/Algorithm/code/AlgorithmByCpp/BST/SequenceST.h
+iostream
+-
+cassert
+-
+
+F:/Algorithm/code/AlgorithmByCpp/BST/main.cpp
+iostream
+-
+vector
+-
+string
+-
+ctime
+-
+BST.h
+F:/Algorithm/code/AlgorithmByCpp/BST/BST.h
+SequenceST.h
+F:/Algorithm/code/AlgorithmByCpp/BST/SequenceST.h
+FileOps.h
+F:/Algorithm/code/AlgorithmByCpp/BST/FileOps.h
+

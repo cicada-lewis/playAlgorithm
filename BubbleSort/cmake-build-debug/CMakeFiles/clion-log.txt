@@ -1,0 +1,4 @@
+"D:\Development\CLion 2017.1.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\AlgorithmByCpp\BubbleSort
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/AlgorithmByCpp/BubbleSort/cmake-build-debug

@@ -1,0 +1,3 @@
+"D:\Development\Clion\CLion 2017.2.1\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\InsertionSort.dir/objects.a
+D:\DevelopEnviro\MinGW\bin\ar.exe cr CMakeFiles\InsertionSort.dir/objects.a @CMakeFiles\InsertionSort.dir\objects1.rsp
+D:\DevelopEnviro\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\InsertionSort.dir/objects.a -Wl,--no-whole-archive  -o InsertionSort.exe -Wl,--out-implib,libInsertionSort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\InsertionSort.dir\linklibs.rsp

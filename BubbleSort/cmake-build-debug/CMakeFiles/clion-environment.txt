@@ -1,0 +1,3 @@
+ToolSet: 5.0@D:\DevelopEnviro\MinGW
+Options: 
+CMake: 3.7.1@D:\Development\CLion 2017.1.1\bin\cmake\bin\cmake.exe

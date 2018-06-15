@@ -1,0 +1,4 @@
+"D:\Development\Clion\CLion 2017.2.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\Algorithm\code\AlgorithmAndDataStructure\Graphic
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Algorithm/code/AlgorithmAndDataStructure/Graphic/cmake-build-debug

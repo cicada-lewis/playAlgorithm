@@ -1,0 +1,4 @@
+D:\development_enviroment\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/msys64/mingw64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/msys64//mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/msys64/mingw64/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" F:\Algorithm\code\AlgorithmByCpp\BST
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/Algorithm/code/AlgorithmByCpp/BST/cmake-build-debug

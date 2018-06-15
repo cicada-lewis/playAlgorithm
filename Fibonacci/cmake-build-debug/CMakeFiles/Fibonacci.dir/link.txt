@@ -1,0 +1,3 @@
+"D:\Development\Clion\CLion 2017.2.1\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\Fibonacci.dir/objects.a
+D:\DevelopEnviro\MinGW\bin\ar.exe cr CMakeFiles\Fibonacci.dir/objects.a @CMakeFiles\Fibonacci.dir\objects1.rsp
+D:\DevelopEnviro\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Fibonacci.dir/objects.a -Wl,--no-whole-archive  -o Fibonacci.exe -Wl,--out-implib,libFibonacci.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Fibonacci.dir\linklibs.rsp

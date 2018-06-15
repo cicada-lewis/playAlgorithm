@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Algorithm/code/AlgorithmAndDataStructure/MaxHeap/main.cpp
+iostream
+-
+ctime
+-
+cassert
+-
+cmath
+-
+
